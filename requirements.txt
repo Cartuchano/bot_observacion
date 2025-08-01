@@ -1,4 +1,0 @@
-websocket-client
-requests
-https://github.com/hyperliquid-dev/hyperliquid-python/archive/refs/heads/main.zip
-
