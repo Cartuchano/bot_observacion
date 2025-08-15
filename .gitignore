@@ -1,0 +1,37 @@
+# ⚠️ Archivos sensibles
+credenciales_google.json
+.env
+
+# 💻 Entornos virtuales
+venv/
+.env/
+__pycache__/
+*.py[cod]
+*.so
+
+# 🔧 Archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+
+# 📦 Archivos de dependencias
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 🧪 Archivos temporales y de pruebas
+*.log
+*.tmp
+*.bak
+
+# 📦 Archivos de paquetes
+*.zip
+*.tar.gz
+
+# 🚫 Render y otros servicios pueden generar estos
+node_modules/
+.cache/
+
+# ⚙️ IDEs y editores de código
+.vscode/
+.idea/
